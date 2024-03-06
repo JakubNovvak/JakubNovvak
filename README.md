@@ -1,9 +1,15 @@
-### Hi there 👋
+
+- 👋 Hi there! I'm Jakub Nowak
+- 🪟 My favourite technologies revolve around .Net framework
+- 🔭 At the moment, I am strategizing the structure of the "Invoice Management System"
+- 🌱 I'm currently learning about implementing proper microservices architecture
+- 📫 How to reach me: jakubszymonnowak@gmail.com
 
 <!--
 **JakubNovvak/JakubNovvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

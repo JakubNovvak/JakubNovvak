@@ -4,9 +4,10 @@
 - 🔭 At the moment, I am strategizing the structure of the "Invoice Management System" project
 - 🌱 I'm currently learning about implementing proper microservices architecture
 - 💬 Projects I would like to do in the future:
-    - YTDownloader (WPF)
+    - Youtube Downloader (WPF)
     - PDF Editor - PDF to PNG, Merge PDF's etc. (WPF)
-- 📫 How to reach me: jakubszymonnowak@gmail.com
+<br>
+  📫 How to reach me: jakubszymonnowak@gmail.com
 <!--
 **JakubNovvak/JakubNovvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

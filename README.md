@@ -7,7 +7,7 @@
     - Youtube Downloader (WPF)
     - PDF Editor - PDF to PNG, Merge PDF's etc. (WPF)
 <br>
-  📫 How to reach me: jakubszymonnowak@gmail.com
+  📫 How to reach me: <a href="mailto:jakubszymonnowak@gmail.com">jakubszymonnowak@gmail.com</a>
 <!--
 **JakubNovvak/JakubNovvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

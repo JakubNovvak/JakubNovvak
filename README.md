@@ -1,6 +1,6 @@
 
 - 👋 Hi there! I'm Jakub Nowak
-- 🪟 My favourite technologies revolve around .Net framework
+- 🪟 My favourite technologies revolve around .NET framework
 - 🔭 At the moment, I am strategizing the structure of the "Invoice Management System" project
 - 🌱 I'm currently learning about implementing proper microservices architecture
 - 💬 Projects I would like to do in the future:

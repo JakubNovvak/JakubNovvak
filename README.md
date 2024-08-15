@@ -1,7 +1,7 @@
 
 - 👋 Hi there! I'm Jakub Nowak
 - 🪟 My favourite technologies revolve around .NET framework
-- 🔭 At the moment, I am strategizing the structure of the "Invoice Management System" project
+- 🔭 At the moment, I'm working on my freelancing projects, which will hopefully be commercialized 🤞
 - 🌱 I'm currently learning about microservices architecture and Blazor framework
 - 💬 Projects I would like to do in the future:
     - Youtube Downloader (WPF)

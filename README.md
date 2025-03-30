@@ -4,7 +4,7 @@
 - 🔭 At the moment, I'm working on my freelancing projects
 - 🌱 I'm currently learning about microservices architecture and Blazor framework
 - 💬 Projects I would like to do in the future:
-    - ▶️ Youtube Downloader (WPF)
+    - 📺 Youtube Downloader (WPF)
     - 📄 PDF Editor - PDF to PNG, Merge PDF's etc. (WPF)
     - 📌 Specialized GPS navigation system (mobile app, web client and server)
 <br>

@@ -6,7 +6,7 @@
 - 💬 Projects I would like to do in the future:
     - Youtube Downloader (WPF)
     - PDF Editor - PDF to PNG, Merge PDF's etc. (WPF)
-    - Specialized navigation system (mobile app, web client and server)
+    - Specialized GPS navigation system (mobile app, web client and server)
 <br>
   📫 How to reach me: <a href="mailto:jakubszymonnowak@gmail.com">jakubszymonnowak@gmail.com</a>
 <!--

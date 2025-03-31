@@ -6,7 +6,7 @@
 - 💬 Projects I would like to do in the future:
     - 📺 Youtube Downloader- an attempt, to create a streaming extractor (WPF)
     - 📄 PDF Editor - standalone and offilne converting, such as PDF to PNG, Merge PDF's etc. (WPF)
-    - 📌 Specialized GPS navigation ecosystem - sucha as mobile app (Flutter/XCode), web client (React.ts) and server (ASP.NET)
+    - 📌 Specialized GPS navigation ecosystem - such as mobile app (Flutter/XCode), web client (React.ts) and server (ASP.NET)
 <br>
   📫 How to reach me: <a href="mailto:jakubszymonnowak@gmail.com">jakubszymonnowak@gmail.com</a>
 <!--

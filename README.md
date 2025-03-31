@@ -4,9 +4,9 @@
 - 🔭 At the moment, I'm working on my freelancing projects
 - 🌱 I'm currently learning about microservices architecture and Blazor framework
 - 💬 Projects I would like to do in the future:
-    - 📺 Youtube Downloader (WPF)
-    - 📄 PDF Editor - PDF to PNG, Merge PDF's etc. (WPF)
-    - 📌 Specialized GPS navigation system (mobile app, web client and server)
+    - 📺 Youtube Downloader- an attempt, to create a streaming extractor (WPF)
+    - 📄 PDF Editor - standalone and offilne converting, such as PDF to PNG, Merge PDF's etc. (WPF)
+    - 📌 Specialized GPS navigation ecosystem - sucha as mobile app (Flutter/XCode), web client (React.ts) and server (ASP.NET)
 <br>
   📫 How to reach me: <a href="mailto:jakubszymonnowak@gmail.com">jakubszymonnowak@gmail.com</a>
 <!--

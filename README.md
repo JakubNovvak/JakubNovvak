@@ -1,5 +1,5 @@
 
-- 👋 Hi there! I'm Jakub Nowak
+- 👋 Hello there! I'm Jakub Nowak
 - 🪟 My favourite technologies revolve around .NET framework
 - 🔭 At the moment, I'm working on my freelancing projects
 - 🌱 I'm currently learning about microservices architecture and Blazor framework

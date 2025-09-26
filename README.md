@@ -2,11 +2,13 @@
 - 👋 Hello there! I'm Jakub Nowak
 - 🪟 My favourite technologies revolve around .NET framework
 - 🔭 At the moment, I'm working on my freelancing projects
-- 🌱 I'm currently learning about microservices architecture and Blazor framework
+- 🌱 I'm currently learning about Android Studio and Kotlin related Technology Stacks
 - 💬 Projects I would like to do in the future:
-    - 📺 Youtube Downloader - an attempt, to create a streaming extractor (WPF)
+    - 👾 Dream Game Project I've been planning for years (Unity)
+    - 📺 Youtube Downloader - an attempt, to create a streaming extractor (WPF)    
     - 📄 PDF Editor - standalone and offilne files converting, such as PDF to PNG, Merge PDF's etc. (WPF)
-    - 📌 Specialized GPS navigation ecosystem - such as mobile app (Flutter/XCode), web client (React.ts) and server (ASP.NET)
+    - ☁️ Own Cloud Datbase - hosted in home network, accessed outside through VPN with self designed CMS (ASP.NET, React.ts)
+    - 📌 Specialized GPS navigation ecosystem - such as mobile app (Flutter/Kotlin + Android Studio), web client (React.ts) and server (ASP.NET)
 <br>
   📫 How to reach me: <a href="mailto:jakubszymonnowak@gmail.com">jakubszymonnowak@gmail.com</a>
 <!--

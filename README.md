@@ -7,7 +7,7 @@
     - 👾 Dream Game Project I've been planning for years (Unity)
     - 📺 Youtube Downloader - an attempt, to create a streaming extractor (WPF)    
     - 📄 PDF Editor - standalone and offilne files converting, such as PDF to PNG, Merge PDF's etc. (WPF)
-    - ☁️ Own Cloud Datbase - hosted in home network, accessed outside through VPN with self designed CMS (ASP.NET, React.ts)
+    - ☁️ Own Cloud Database - hosted in home network, accessed outside through VPN with self designed CMS (ASP.NET, React.ts)
     - 📌 Specialized GPS navigation ecosystem - such as mobile app (Flutter/Kotlin + Android Studio), web client (React.ts) and server (ASP.NET)
 <br>
   📫 How to reach me: <a href="mailto:jakubszymonnowak@gmail.com">jakubszymonnowak@gmail.com</a>

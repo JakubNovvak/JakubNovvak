@@ -1,8 +1,7 @@
 
 - 👋 Hello there! I'm Jakub Nowak
 - 🪟 My favourite technologies revolve around .NET framework
-- ⏰ Recently, I began using Convetional Commits in my repositories
-<!--- 🔭 At the moment, I'm working on my freelancing projects-->
+- ⏰ Recently, I began using Convetional Commits in my repositories <!--- 🔭 At the moment, I'm working on my freelancing projects-->
 - 🌱 I'm currently learning about Azure Cloud, CI/CD and Software Testing
 - 💬 Projects I would like to do in the future:
     - 👾 Dream Game Project I've been planning for years (Unity)
